@@ -1,5 +1,5 @@
 ## This is a database project done to simulate music database system by developing music web-application 
-## The technology stack used using Python-CGI, MYSQL, HTML, CSS and MySQL database 
+## The technology stack used Python-CGI, MYSQL, HTML, CSS and MySQL database 
 
 # Music-Database-System
 
